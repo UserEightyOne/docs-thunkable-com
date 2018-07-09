@@ -58,10 +58,10 @@ Open the default Browser app
 {% tab title="App Made on Thunkable" %}
 App made on Thunkable
 
-| Action | com.thunkable.android.{username}.{appname} |
+| Action |  |
 | --- | --- | --- | --- | --- |
-| Activity Class | com.thunkable.android.{username}.{appname}.Screen1 |
-| Activity Package |  |
+| Activity Class | com.{username}.{appname}.Screen1 |
+| Activity Package | com.{username}.{appname} |
 | Data URI |  |
 | Data URI Example |  |
 {% endtab %}
